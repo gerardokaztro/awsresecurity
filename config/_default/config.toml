@@ -3,7 +3,7 @@ defaultContentLanguage = "es"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-baseurl = "https://main.d23jt5avp6hirf.amplifyapp.com/"
+baseurl = "https://test.awssecurity.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
