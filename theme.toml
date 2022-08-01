@@ -1,0 +1,14 @@
+name = "AWS re:Security"
+license = "MIT"
+licenselink = "https://github.com/gerardokaztro/awsresecurity/blob/main/LICENSE"
+description = "AWS re:Security is an open source interactive learning platform that helps develop skills in the areas of Cloud Security and Blue Team"
+
+homepage = "https://github.com/gerardokaztro/awsresecurity"
+demosite = "https://test.awssecuritylatam.com/"
+
+tags = ["landing page", "documentation", "blog", "minimal", "modern", "customizable", "search", "dark mode", "bootstrap"]
+features = ["we've got you covered", "open source", "learning by doing", "improve skills", "contribute and be part", "always up to date"]
+
+[author]
+  name = "Gerardo Castro"
+  homepage = "https://gerardokaztro.com"

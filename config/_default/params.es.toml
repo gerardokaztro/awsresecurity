@@ -1,0 +1,112 @@
+# Meta Data for SEO
+
+## Homepage
+title = "AWS re:Security"
+titleSeparator = "-"
+titleAddition = "Bienvenidos"
+description = "AWS re:Security es un lugar de aprendizaje interactivo open source que ayuda a desarrollar skills sobre los campos de Cloud Security y Blue Team"
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["resecurity.png"]
+ogLocale = "es_ES"
+domainTLD = "test.awssecuritylatam.com"
+titleHome = "AWS re:Security"
+
+## Twitter Cards
+twitterSite = "@gerardokaztro"
+twitterCreator = "@gerardokaztro"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "AWS Security LATAM"
+schemaAuthor = "Gerardo Castro"
+schemaAuthorTwitter = "https://twitter.com/gerardokaztro"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/gerardokaztro/"
+schemaAuthorGitHub = "https://github.com/gerardokaztro"
+schemaLocale = "es-ES"
+schemaLogo = "resecurity.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "resecurity.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/gerardokaztro/awsresecurity"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images - Temporarily left in place for backward compatibility
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image1.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "Este NO es un sitio web oficial de AWS.</br> Creado por <a href=\"https://gerardokaztro.com/\">@gerardokaztro</a> en colaboración con la comunidad de <a href=\"https://www.meetup.com/es/awssecuritylatam/\">AWS Security LATAM</a>."
+
+# Feed
+copyRight = "2022 © Gerardo Castro. All Rights Reserved."
+
+# Alert
+alert = true
+alertDismissable = true
+alertText = "Muchas personas deberian conocer esta plataforma de aprendizaje gratuita. Por favor <a class=\"alert-link stretched-link\" href=\"https://twitter.com/intent/tweet/?text=%23AWSreSecurity%20una%20plataforma%20de%20aprendizaje%20GRATUITA%20para%20desarrollar%20habilidades%20en%20%23Ciberseguridad%20usando%20%40aws_cloud%20creada%20por%20%40gerardokaztro.%20Aprende,%20entrena%20y%20diviertete%20👊%20&url=https://main.d23jt5avp6hirf.amplifyapp.com\" target=\"_blank\" rel=\"noopener\">👉  Twittea 👈</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+docsRepo = "https://github.com/gerardokaztro/awsresecurity"
+docsRepoBranch = "main"
+docsRepoSubPath = "public"
+editPage = false
+lastMod = false
+
+[sections]
+  sectionNav = ["docs", "guides"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  searchSectionsShow = ["docs"]
+  searchSectionsIndex = []
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = true
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
