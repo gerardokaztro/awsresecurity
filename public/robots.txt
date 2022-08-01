@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://main.d23jt5avp6hirf.amplifyapp.com/sitemap.xml
+Sitemap: https://test.awssecuritylatam.com/sitemap.xml

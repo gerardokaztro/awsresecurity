@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://test.awssecuritylatam.com">
-    <img alt="resecurity-logo" src="https://test.awssecuritylatam.com/logo-main_new.svg" width="60">
+    <img alt="resecurity-logo" src="https://github.com/gerardokaztro/awsresecurity/blob/main/content/en/images/logo-main_new.svg" width="60">
   </a>
 </p>
 
