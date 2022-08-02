@@ -73,7 +73,7 @@ copyRight = "2022 © Gerardo Castro. All Rights Reserved."
 # Alert
 alert = true
 alertDismissable = true
-alertText = "Muchas personas deberian conocer esta plataforma de aprendizaje gratuita. Por favor <a class=\"alert-link stretched-link\" href=\"https://twitter.com/intent/tweet/?text=%23AWSreSecurity%20una%20plataforma%20de%20aprendizaje%20GRATUITA%20para%20desarrollar%20habilidades%20en%20%23Ciberseguridad%20usando%20%40aws_cloud%20creada%20por%20%40gerardokaztro.%20Aprende,%20entrena%20y%20diviertete%20👊%20&url=https://main.d23jt5avp6hirf.amplifyapp.com\" target=\"_blank\" rel=\"noopener\">👉  Twittea 👈</a>"
+alertText = "Muchas personas deberian conocer esta plataforma de aprendizaje gratuita. Por favor <a class=\"alert-link stretched-link\" href=\"https://twitter.com/intent/tweet/?text=%23AWSreSecurity%20una%20plataforma%20de%20aprendizaje%20GRATUITA%20para%20desarrollar%20habilidades%20en%20%23Ciberseguridad%20usando%20%40aws_cloud%20creada%20por%20%40gerardokaztro.%20Aprende,%20entrena%20y%20diviertete%20👊%20&url=https://awsresecurity.com\" target=\"_blank\" rel=\"noopener\">👉  Twittea 👈</a>"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
