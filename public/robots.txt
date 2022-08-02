@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://test.awssecuritylatam.com/sitemap.xml
+Sitemap: https://awsresecurity.com/sitemap.xml

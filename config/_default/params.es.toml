@@ -10,9 +10,9 @@ description = "AWS re:Security es un lugar de aprendizaje interactivo open sourc
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["resecurity.png"]
+images = ["og-main.png"]
 ogLocale = "es_ES"
-domainTLD = "test.awssecuritylatam.com"
+domainTLD = "awsresecurity.com"
 titleHome = "AWS re:Security"
 
 ## Twitter Cards
@@ -28,10 +28,10 @@ schemaAuthorTwitter = "https://twitter.com/gerardokaztro"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/gerardokaztro/"
 schemaAuthorGitHub = "https://github.com/gerardokaztro"
 schemaLocale = "es-ES"
-schemaLogo = "resecurity.png"
+schemaLogo = "js-main.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "resecurity.png"
+schemaImage = "og-main.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = ""
@@ -61,7 +61,7 @@ singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 ### Image template
-defaultImage = "default-image1.png" # put in `./assets/images/`
+defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer

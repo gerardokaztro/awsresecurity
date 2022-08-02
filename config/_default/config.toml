@@ -3,7 +3,7 @@ defaultContentLanguage = "es"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-baseurl = "https://test.awssecuritylatam.com/"
+baseurl = "https://awsresecurity.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
